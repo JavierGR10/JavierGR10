@@ -4,13 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 FrontEnd Developer
 ------------------
 
-I'm a Front-End Developer with over two years of experience building modern and efficient web applications with React and Vue. I'm passionate about creating digital products that not only perform well but also offer an excellent user experience.
+I'm a Front-End Developer with over three years of experience building modern and efficient web applications with React and Vue. I'm passionate about creating digital products that not only perform well but also offer an excellent user experience.
 
 * 🌍  I'm based in Guadalajara, Jal.
 * 🖥️  See my portfolio at [Portfolio](http://javier-garcia-portfolio.vercel.app)
 * ✉️  You can contact me at [javier.a.garcia.rom@gmail.com](mailto:javier.a.garcia.rom@gmail.com)
-* 🚀  I'm currently working on [Wits](http://wits.mx)
-* 🧠  I'm learning Laravel
+* 🚀  I'm currently working on [GrupoCVA]([http://wits.mx](https://www.grupocva.com/))
 * 🤝  I'm open to collaborating on Web development
 
 ### Skills
